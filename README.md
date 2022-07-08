@@ -1,0 +1,1 @@
+# gauss-seidal-method
